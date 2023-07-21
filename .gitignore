@@ -1,2 +1,5 @@
-102flowers/*
-yolov5/*
+102flowers/102flowers/*
+102flowers/train/*
+102flowers/val/*
+102flowers/test/*
+/yolov5-code/
