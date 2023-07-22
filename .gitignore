@@ -19,4 +19,4 @@ yolov5/run-3/data2.zip
 yolov5/run-2/exp/weights/*
 
 yolov5/yolov5-code/runs/train-cls/exp-1/weights/*
-yolov5/yolov5-code/*.pt
+yolov5/yolov5-code/runs/train-cls/exp-2/weights/*
