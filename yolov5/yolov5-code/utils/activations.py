@@ -37,7 +37,7 @@ class MemoryEfficientMish(nn.Module):
         @staticmethod
         def forward(ctx, x):
             ctx.save_for_backward(x)
-            return x.mul(torch.tanh(F.softplus(x)))  # x * tanh(ln(1 + exp(x)))
+            return x.mul(torch.tanh(F.softplus(x)))  # x * tanh(ln(1 + exp-1(x)))
 
         @staticmethod
         def backward(ctx, grad_output):

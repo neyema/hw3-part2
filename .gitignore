@@ -6,10 +6,15 @@ yolov5/train/*
 yolov5/val/*
 yolov5/test/*
 
-yolov5/run 1/train/*
-yolov5/run 1/val/*
-yolov5/run 1/test/*
-yolov5/run 1/exp/weights/*
+yolov5/run-1/train/*
+yolov5/run-1/val/*
+yolov5/run-1/test/*
+yolov5/run-1/exp/weights/*
 
-yolov5/yolov5-code/runs/train-cls/exp/weights/*
+yolov5/run-2/train/*
+yolov5/run-2/val/*
+yolov5/run-2/test/*
+yolov5/run-2/exp/weights/*
+
+yolov5/yolov5-code/runs/train-cls/exp-1/weights/*
 yolov5/yolov5-code/*.pt
