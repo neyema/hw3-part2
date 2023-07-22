@@ -12,3 +12,4 @@ yolov5/run 1/test/*
 yolov5/run 1/exp/weights/*
 
 yolov5/yolov5-code/runs/train-cls/exp/weights/*
+yolov5/yolov5-code/*.pt
