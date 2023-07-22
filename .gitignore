@@ -1,5 +1,7 @@
 102flowers/102flowers/*
-102flowers/train/*
-102flowers/val/*
-102flowers/test/*
-/yolov5-code/
+102flowers/102flowers.tgz
+yolov5/train/*
+yolov5/val/*
+yolov5/test/*
+yolov5/yolov5-code/runs/train-cls/exp/weights/*
+/yolov5/data.zip
